@@ -1,4 +1,4 @@
-# Disease-prediction-using-4-basic-models-and-streamlit-front-end
+# Disease-prediction-using-4-ML-and-streamlit-front-end
 The code provided is a Python script for disease prediction using different types of machine learning algorithms. Here's a summary of what the script does:
 
 1. Import necessary libraries including Streamlit, pandas, numpy, matplotlib, nltk, and scikit-learn modules.
