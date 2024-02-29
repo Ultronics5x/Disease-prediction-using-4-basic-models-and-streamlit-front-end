@@ -16,5 +16,6 @@ Displays accuracy scores and classification reports for model evaluation.
 Overall, the script provides a user-friendly interface for disease prediction based on symptom descriptions using various machine learning techniques.
 
 
-
+When using terminal for the code - set the directory using - cd {address of code and dataset}
+                                                           - streamlit run project.py
 
